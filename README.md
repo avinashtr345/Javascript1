@@ -1,1 +1,2 @@
-# Javascript1
+# JS_CODE
+A code for javascript
